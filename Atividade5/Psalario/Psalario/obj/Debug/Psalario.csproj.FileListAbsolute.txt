@@ -1,0 +1,19 @@
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\bin\Debug\Psalario.exe.config
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\bin\Debug\Psalario.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\bin\Debug\Psalario.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.csprojResolveAssemblyReference.cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.Cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.pdb
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\Lucas\Documents\LP2\Psalario\Psalario\obj\Debug\Psalario.pdb
