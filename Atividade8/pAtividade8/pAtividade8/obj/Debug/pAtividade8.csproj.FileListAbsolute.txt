@@ -1,0 +1,27 @@
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\bin\Debug\pAtividade8.exe.config
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\bin\Debug\pAtividade8.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\bin\Debug\pAtividade8.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.Form1.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio2.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio3.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio4.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercício1.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.Properties.Resources.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csproj.GenerateResource.Cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.pdb
+C:\Users\0030482121023\Documents\Visual Studio 2013\Projects\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\bin\Debug\pAtividade8.exe.config
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\bin\Debug\pAtividade8.exe
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\bin\Debug\pAtividade8.pdb
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.Form1.resources
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio2.resources
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio3.resources
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio4.resources
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercício1.resources
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.Properties.Resources.resources
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csproj.GenerateResource.cache
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.exe
+C:\Users\Lucas\Downloads\pAtividade83\pAtividade8\pAtividade8\obj\Debug\pAtividade8.pdb
