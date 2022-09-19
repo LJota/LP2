@@ -1,0 +1,10 @@
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\bin\Debug\pIMC.exe.config
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\bin\Debug\pIMC.exe
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\bin\Debug\pIMC.pdb
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.Form1.resources
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.Properties.Resources.resources
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.exe
+C:\Users\Lucas\Documents\LP2\pIMC\pIMC\obj\Debug\pIMC.pdb
