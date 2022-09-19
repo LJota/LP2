@@ -1,0 +1,9 @@
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\bin\Debug\PVenda.exe.config
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\bin\Debug\PVenda.exe
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\bin\Debug\PVenda.pdb
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\obj\Debug\PVenda.Form1.resources
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\obj\Debug\PVenda.Properties.Resources.resources
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\obj\Debug\PVenda.csproj.GenerateResource.Cache
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\obj\Debug\PVenda.exe
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\obj\Debug\PVenda.pdb
+c:\users\0030482121030\documents\visual studio 2013\Projects\PVenda\PVenda\obj\Debug\PVenda.csprojResolveAssemblyReference.cache
